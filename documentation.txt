@@ -1,0 +1,10 @@
+reference: https://bootstrapmade.com/demo/Arsha/
+
+primary-bg-color: #37517e;
+secondary-bg-color: #f3f5fa;
+
+text-heding-color:  #37517e;
+secondary-text-heding-color: #fff;
+text-dis-color: #4e5464;
+secondary-dis-color: #848484;
+
